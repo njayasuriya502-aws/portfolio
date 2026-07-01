@@ -325,3 +325,55 @@ opacity:0;
     margin:8px 0;
 
 }
+/* Experience */
+
+.experience-card{
+
+    background:#131f35;
+    margin:30px auto;
+    padding:30px;
+    border-radius:18px;
+    max-width:900px;
+    transition:.3s;
+
+}
+
+.experience-card:hover{
+
+    transform:translateY(-8px);
+    box-shadow:0 15px 30px rgba(0,212,255,.25);
+
+}
+
+.experience-card h3{
+
+    color:#00d4ff;
+
+}
+
+.experience-card h4{
+
+    margin:8px 0;
+
+}
+
+.experience-card span{
+
+    color:#9ca3af;
+    display:block;
+    margin-bottom:15px;
+
+}
+
+.experience-card ul{
+
+    padding-left:20px;
+
+}
+
+.experience-card li{
+
+    margin:10px 0;
+    color:#d1d5db;
+
+}
